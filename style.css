@@ -1,0 +1,31 @@
+* {
+  background-color: rgb(57, 00, 00);
+  color: white;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+#header {
+  font-family: 'Brush Script MT', cursive;
+  color: gold;
+  font-size: 60px;
+  text-align: center;
+}
+
+img {
+  width: 300px;
+  height: auto;
+}
+
+div {
+  width: 900px;
+  height: 350px;
+}
+
+#chicken,
+#eggs {
+  float: left;
+}
+
+#pork {
+  float: right;
+}
