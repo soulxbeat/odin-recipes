@@ -12,13 +12,15 @@
 }
 
 img {
-  width: 300px;
+  width: 250px;
   height: auto;
+  margin: 10px;
 }
 
 div {
   width: 900px;
-  height: 350px;
+  height: 250px;
+  border-top: 2mm ridge gold; 
 }
 
 #chicken,
@@ -28,4 +30,9 @@ div {
 
 #pork {
   float: right;
+}
+
+p {
+  padding: 10px;
+  margin: 10px;
 }
